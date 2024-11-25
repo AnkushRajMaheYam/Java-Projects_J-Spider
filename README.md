@@ -92,8 +92,8 @@ Future Projects will follow the same structure and will be placed in their respe
 
 3. Compile and run the Java programs:
    ```bash
-   javac Project1.java
-   java Project1
+   javac ShoppingCart1.java
+   java ShoppingCart
    ```
 
 4. Follow the on-screen instructions to input the necessary values and test the methods.
