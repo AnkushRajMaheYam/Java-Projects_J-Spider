@@ -1,6 +1,14 @@
 # Java Projects: J-Spider Software Training Institute
+This repository contains a collection of Java programming projects created during my training at the **J-Spider Software Training Institute (Noida Branch)**. These projects were developed by **Ankush Raj**, also known as **Ankush Raj Mahe Yam**, as part of the learning process.  
 
-This repository contains a collection of Java programming Projects from the **J-Spider Software Training Institute** (Noida Branch). Each Project focuses on different aspects of Java, including method implementation, conditional logic, loops, oops and problem-solving techniques.
+Each project focuses on specific aspects of Java, including but not limited to:  
+- **Method Implementation**  
+- **Conditional Logic**  
+- **Loops (While, For, Do-While)**  
+- **Object-Oriented Programming (OOP)**  
+- **Problem-Solving Techniques**
+
+---
 
 ## Repository Structure
 
@@ -11,9 +19,9 @@ Each Projectment is stored in a separate folder named according to the Projectme
 ```
 Java-Projectment_J-Spider/
     ├── Project1/
-    │   └── Project1.java
+    │   └── ShoppingCart.java
     ├── Project2/
-    │   └── Project2.java
+    │   └── ElectricityChargeCalculation.java
     └── (Future Projects will be added in separate folders)
 ```
 
@@ -28,10 +36,10 @@ The **Project1** folder contains the following Java problems:
 2. Allow the user to input the price of each item one by one.
 3. Calculate the total price of all the items.
 4. Apply a discount based on the total price using the following criteria:
-   - **40% discount** if the total is \( \geq 10,000 \).
-   - **30% discount** if the total is \( \geq 7,000 \) but less than \( 10,000 \).
-   - **20% discount** if the total is \( \geq 3,000 \) but less than \( 7,000 \).
-   - **8% discount** for totals less than \( 3,000 \).
+   - **40% discount** if the total is ≥10,000.
+   - **30% discount** if the total is ≥7,000 but less than 10,000.
+   - **20% discount** if the total is ≥3,000 but less than 7,000.
+   - **8% discount** for totals less than 3,000.
 5. Display:
    - The total price before the discount.
    - The discount percentage applied.
@@ -116,3 +124,11 @@ Connect with me on:
 
 **License:**  
 This repository is licensed under the MIT License.
+
+
+## **Acknowledgements**
+Special thanks to the mentor([Shambhu Sir](https://www.instagram.com/kumarsam07)) and faculty at **J-Spider Software Training Institute (Noida Branch)** for providing excellent guidance and support throughout the course.
+
+---
+
+Feel free to explore the projects, and happy coding! 😊

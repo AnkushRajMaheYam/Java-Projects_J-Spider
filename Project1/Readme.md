@@ -6,10 +6,10 @@ Write a Java program to implement a **Shopping Cart System**. The program should
 2. Allow the user to input the price of each item one by one.
 3. Calculate the total price of all the items.
 4. Apply a discount based on the total price using the following criteria:
-   - **40% discount** if the total is \( \geq 10,000 \).
-   - **30% discount** if the total is \( \geq 7,000 \) but less than \( 10,000 \).
-   - **20% discount** if the total is \( \geq 3,000 \) but less than \( 7,000 \).
-   - **8% discount** for totals less than \( 3,000 \).
+   - **40% discount** if the total is ≥10,000.
+   - **30% discount** if the total is ≥7,000 but less than 10,000.
+   - **20% discount** if the total is ≥3,000 but less than 7,000.
+   - **8% discount** for totals less than 3,000.
 5. Display:
    - The total price before the discount.
    - The discount percentage applied.
