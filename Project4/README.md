@@ -138,7 +138,7 @@ Fire Now and Kill Enemy..
 
 ## About Me
 
-Hi, I’m Ankush Raj Mahe Yam (ARMY), an aspiring software developer currently pursuing Java Full Stack Development. I’m also involved in various business ventures, including a tech-based YouTube channel, a logistics business, and real estate projects.
+Hi, I’m Ankush Raj  or Ankush Raj Mahe Yam (ARMY), an aspiring software developer currently pursuing Java Full Stack Development. I’m also involved in various business ventures, including a tech-based YouTube channel, a logistics business, and real estate projects.
 
 Connect with me on:
 - **Search on Google:** [Ankush Raj Mahe Yam](https://www.google.com/search?q=ankush+raj+mahe+yam)
