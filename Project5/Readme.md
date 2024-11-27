@@ -114,7 +114,8 @@ This repository contains the implementation of a **Shape Game** designed to calc
 
 ```
 src/
-├── ShapeGame.java        # Main class to start the game
+├── Mobile.java           # Main class to start the game
+├── ShapeGame.java        # Implement all conditions
 ├── TwoDshape.java        # Parent class for 2D shapes
 ├── ThreeDshape.java      # Parent class for 3D shapes
 ├── Circle.java           # Implements Circle-specific calculations
